@@ -28,4 +28,5 @@
 
 
 ### Panel Görseli
-![image](https://github.com/user-attachments/assets/3934ff20-803b-473b-b386-117ffc28c47a)
+![image](https://github.com/user-attachments/assets/d8cbe8f9-f9ff-4793-9d54-f0f6dc0b9c31)
+
